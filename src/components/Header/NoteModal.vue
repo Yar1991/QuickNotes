@@ -219,4 +219,10 @@ dialog::backdrop {
   }
 
 }
+
+@media (max-width: 500px) {
+  .note-form {
+    width: 100%;
+  }
+}
 </style>
