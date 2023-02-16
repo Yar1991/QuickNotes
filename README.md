@@ -1,6 +1,6 @@
 # Project QuickNotes
 
-Test... deployed [here](https://rad-starlight-fce835.netlify.app/).
+Test... deployed [here](https://quick-vue-notes.netlify.app/).
 
 ## Built with:
 
